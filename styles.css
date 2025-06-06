@@ -23,6 +23,7 @@ body {
 font-family: modren;
 font-weight: 900;
 color: antiquewhite;
+letter-spacing: .1rem;
 }
 
 .card-body p{
@@ -38,6 +39,7 @@ footer {
 .navbar-brand {
     font-family: cig;
     font-weight: 900;
+    letter-spacing: .1rem;
 }
 .custom-navbar{
 
